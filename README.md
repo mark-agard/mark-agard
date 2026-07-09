@@ -1,3 +1,4 @@
+# Mark Agard — Geospatial Software Engineer (in progress)
 ## About Me
 I do full-stack development with a particular focus on geospatial data. Currently working in the renewable energy sector. Usually using Python, SQL, and TypeScript at my day job, with a personal interest in Rust. 
 
@@ -7,5 +8,5 @@ I do full-stack development with a particular focus on geospatial data. Currentl
 - Responsible for mapping [SEIA's Solar and Storage Supply Chain](https://seia.org/research-resources/solar-storage-supply-chain-dashboard/)
  
 ## Personal Projects
-- **[GTFS-Client](https://github.com/mark-agard/gtfs-client)** – A GTFS transit data client
-- **[redhare](https://github.com/mark-agard/redhare)** - Attempt at relational databse in Rust, from scratch!
+- **[GTFS-Client](https://github.com/mark-agard/gtfs-client)** – real-time GTFS-RT client
+- **[redhare](https://github.com/mark-agard/redhare)** - Attempt at a zero-dependency relational database in Rust, from scratch!
