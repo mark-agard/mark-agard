@@ -1,6 +1,6 @@
 # Mark Agard — Geospatial Software Engineer (in progress)
 ## About Me
-I do full-stack development with a particular focus on geospatial data. Currently working in the renewable energy sector. Usually using Python, SQL, and TypeScript at my day job, with a personal interest in Rust. 
+I do full-stack development with a particular focus on geospatial data. Currently working in the renewable energy sector, with a growing interest in transportation and logistics. Usually using Python, SQL, and TypeScript at my day job, with a personal interest in Rust. 
 
 ## Stuff I've Done!
 - Lead design and implementation for data processing and visualization on [SEIA's Prime Farmland Map!](https://seia.org/research-resources/land-use-and-solar-development/). Used Python (DuckDB and GDAL bindings) for data side of things, and Mapbox GL JS for map creation.
