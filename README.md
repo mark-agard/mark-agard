@@ -1,4 +1,4 @@
-# Mark Agard — Geospatial Software Engineer (in progress)
+# Mark Agard — Geospatial Software Engineer
 ## About Me
 I do full-stack development with a particular focus on geospatial data. Currently working in the renewable energy sector, with a growing interest in transportation and logistics. Usually using Python, SQL, and TypeScript at my day job. Learning Rust in my free time! 
 
